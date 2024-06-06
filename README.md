@@ -1,6 +1,6 @@
 # Playbeat Backend
 
-Servidor Backend desarrollado durante la asignatura Proyecto Software 2023/2024 UNIZARLÑ
+Servidor Backend desarrollado durante la asignatura Proyecto Software 2023/2024 UNIZAR
 
 ## URL acceso a la documentación de la API 
 https://playbeat.uksouth.cloudapp.azure.com/api-docs
